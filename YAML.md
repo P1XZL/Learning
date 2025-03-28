@@ -31,7 +31,6 @@ booleanName: no # The boolean is false
 # Common mistakes
 
 yes: no # The boolean is false
-
 no: yes # The boolean is true
 ```
 
