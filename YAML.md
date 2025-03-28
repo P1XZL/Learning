@@ -7,7 +7,7 @@ Other examples like YAML include .json and .xml (.xml is used in excel for examp
 
 YAML files are very easy to read but it can be quite complicated to use it yourself.
 
-Sources I recommend: https://learnxinyminutes.com/yaml/
+Sources: https://learnxinyminutes.com/yaml/
 
 ## Basics
 Just like any other language, YAML also has variables.
@@ -34,4 +34,11 @@ yes: no # The boolean is false
 no: yes # The boolean is true
 ```
 
-#### Strings:
+### Strings:
+Strings don't need to be quoted, however, I do recommend you do so to avoid conflicts with booleans for example.
+```yaml
+# Basic Strings:
+variableName: String
+variableName: 'String'
+variableName: "String"
+```
