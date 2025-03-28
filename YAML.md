@@ -4,9 +4,11 @@ In my own words, YAML is a coding language for other coding languages to communi
 Other examples like YAML include .json and .xml (.xml is used in excel for example).
 YAML files are very easy to read but it can be quite complicated to use it yourself.
 
-Sources: https://learnxinyminutes.com/yaml/
+Sources:
+https://learnxinyminutes.com/yaml/
+https://roadmap.sh/
 
-## Basics
+# Basics
 Just like any other language, YAML also has variables.
 Things like lists, booleans, strings and more.
 
