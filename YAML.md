@@ -1,10 +1,7 @@
 ## What is YAML?
 "YAML is a data serialisation language designed to be directly writable and readable by humans."
-
 In my own words, YAML is a coding language for other coding languages to communicate with each other.
-
 Other examples like YAML include .json and .xml (.xml is used in excel for example).
-
 YAML files are very easy to read but it can be quite complicated to use it yourself.
 
 Sources: https://learnxinyminutes.com/yaml/
